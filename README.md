@@ -13,3 +13,7 @@
 • URL-адрес репозитория.
 Все функции визуализатора зависимостей должны быть покрыты тестами.
 запуск:  python main.py --graphviz-path "C:\Program Files\Graphviz\bin\dot.exe" --package-name bash --output-file bash.dot --repo-url http://archive.ubuntu.com/ubuntu/dists/focal/main/binary-amd64/Packages.gz
+
+![alt text](image.png)
+
+тесты:![alt text](image-1.png)
